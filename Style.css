@@ -5,6 +5,9 @@ body{
 h1{
     font-size: 50px;
 }
+h2{
+    font-size: 40px;
+}
 .text-color{
     color: orange;
 }
@@ -15,14 +18,14 @@ h1{
     float: left;
 }
 .half-width img{
-    width: 100%;
+    width: 80%;
 }
 .top-banner{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
 section{
-    height: 500px;
+    height: 400px;
 }
 .link-button{
     text-decoration: none;
@@ -31,4 +34,10 @@ section{
     border-radius: 10px;
     color: white;
     font-weight: 700;
+}
+p{
+    text-align: justify;
+}
+.about-banner{
+    background-image: url();
 }
