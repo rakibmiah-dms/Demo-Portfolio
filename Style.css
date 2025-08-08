@@ -61,5 +61,20 @@ section{
     background-position: left bottom;
 }
 #rankrezz{
-    border-left: 7px;
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, rgb(221, 236, 7), rgb(71, 255, 71));
+    border-image-slice: 1;
+    background-color: white;
+}
+#rosetech-solution-ltd{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, blue, cyan);
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+    font-size: 12px;
+}
+footer{
+    margin-top: 10%;
 }
